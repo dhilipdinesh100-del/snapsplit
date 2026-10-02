@@ -1,0 +1,17 @@
+# Streamlit configuration and secrets
+.streamlit/secrets.toml
+
+# Python virtual environment
+venv/
+env/
+.env
+
+# Python byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Operating System files
+.DS_Store
+Thumbs.db
