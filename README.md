@@ -1,5 +1,16 @@
 # 🥧 SnapSplit — AI Receipt & Expense Tracker / Bill Splitter
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-voice-yiqruj8wnqsdqcnpicde3k.streamlit.app/)
+
+> **📌 Notice for Evaluators & Reviewers**:
+> This GitHub repository hosts the source code for SnapSplit. To use and test the live running application directly in your browser, click the link below:
+
+## 🚀 Live Demo
+
+👉 **[Open SnapSplit Live App](https://ai-voice-yiqruj8wnqsdqcnpicde3k.streamlit.app/)** 👈
+
+---
+
 SnapSplit is a modern, student-friendly AI-powered receipt and expense assistant built with Streamlit and the Google Gemini API (`google-genai`).
 
 Instead of rigid traditional OCR, SnapSplit leverages Gemini Vision to understand complex receipts, extract readable items and taxes, answer conversational questions about your expenses, calculate accurate bill splits between friends, and deliver clean itemized summaries directly to your email using Gmail SMTP.
